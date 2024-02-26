@@ -1,0 +1,6 @@
+#ifndef FUNCBERE_H_INCLUDED
+#define FUNCBERE_H_INCLUDED
+
+
+
+#endif // FUNCBERE_H_INCLUDED

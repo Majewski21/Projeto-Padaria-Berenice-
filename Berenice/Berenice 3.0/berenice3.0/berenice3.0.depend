@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699333647 source:p:\programas software\anotações aula\berenice\berenice 3.0\berenice3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

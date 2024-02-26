@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695223716 source:p:\programas software\anotações aula\berenice\berenice 2\berenice2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
